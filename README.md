@@ -1,6 +1,15 @@
 # pyTorch_Lightning_tutorial
       PyTorch Lightning is a lightweight PyTorch wrapper that helps you scale your models and write less boilerplate code. 
       In this Tutorial we learn about this framework and how we can convert our PyTorch code to a Lightning code.
+Key Features
+      *Scale your models to run on any hardware (CPU, GPUs, TPUs) without changing your model.
+      *Making code more readable by decoupling the research code from the engineering.
+      *Easier to reproduce.
+      *Less error prone by automating most of the training loop and tricky engineering.
+      *Keeps all the flexibility (LightningModules are still PyTorch modules), but removes a ton of boilerplate.
+      *Lightning has out-of-the-box integration with the popular logging/visualizing frameworks (Tensorboard, MLFlow, Neptune.ai, Comet.ml, Wandb).
+      *Tested rigorously with every new PR. We test every combination of PyTorch and Python supported versions, every OS, multi GPUs and even TPUs.
+      *Minimal running speed overhead (about 300 ms per epoch compared with pure PyTorch).
    Organizing your code with PyTorch Lightning makes your code:
 
       Keep all the flexibility (this is all pure PyTorch), but removes a ton of boilerplate
