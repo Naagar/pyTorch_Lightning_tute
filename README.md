@@ -1,5 +1,6 @@
 # pyTorch_Lightning_tutorial
-      PyTorch Lightning is a lightweight PyTorch wrapper that helps you scale your models and write less boilerplate code. In this Tutorial we learn about this framework and how we can convert our PyTorch code to a Lightning code.
+      PyTorch Lightning is a lightweight PyTorch wrapper that helps you scale your models and write less boilerplate code. 
+      In this Tutorial we learn about this framework and how we can convert our PyTorch code to a Lightning code.
    Organizing your code with PyTorch Lightning makes your code:
 
       Keep all the flexibility (this is all pure PyTorch), but removes a ton of boilerplate
